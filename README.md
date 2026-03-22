@@ -1,3 +1,4 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
 OjaNeuronLayer_AVX512
 
 Ultra-Optimized Oja Neuron Layer for C++ (AVX-512 + OpenMP)
